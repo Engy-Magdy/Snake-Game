@@ -11,9 +11,8 @@ A fully-featured, object-oriented implementation of the classic **Snake Game** b
 </div>
 
 ---
-<img width="980" height="951" alt="Animation" src="https://github.com/user-attachments/assets/ec11865f-6d5f-4474-a24d-fcb41a4acf58" />
 
-
+<img width="980" height="951" alt="Animation" src="https://github.com/user-attachments/assets/3bd447e8-09ab-4393-93ff-49a3c6d0afc8" />
 
 ## 📌 Table of Contents
 - [About The Project](#-about-the-project)
